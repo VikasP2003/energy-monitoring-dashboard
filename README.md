@@ -1,7 +1,7 @@
 # ⚡ Energy Monitoring Dashboard
 
-🔗 Live Dashboard: 
-📁 **Source Code (GitHub):https://github.com/VikasP2003/energy-monitoring-dashboard
+
+📁 Source Code (GitHub):https://github.com/VikasP2003/energy-monitoring-dashboard
 
 📌 Project Overview
 
