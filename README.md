@@ -73,27 +73,6 @@ It provides actionable insights to monitor usage patterns, detect inefficiencies
 * Supported cost reduction strategies
 * Enabled better decision-making
 
-
- 📁 Repository Structure
-
-```
-energy-monitoring-dashboard/
-│
-├── dashboard/
-│   └── EnergyDashboard.pbix
-│
-├── data/
-│   └── energy_data.csv
-│
-├── images/
-│   ├── dashboard1.png
-│   ├── dashboard2.png
-│
-├── README.md
-```
-
----
-
 🚀 Learnings
 
 * Hands-on experience with Power BI
@@ -106,4 +85,3 @@ energy-monitoring-dashboard/
 
 This project demonstrates how data visualization and analytics can help monitor energy consumption, improve efficiency, and support smarter business decisions.
 
----
