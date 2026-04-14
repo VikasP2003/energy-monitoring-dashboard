@@ -1,7 +1,7 @@
 # ⚡ Energy Monitoring Dashboard
 
-🔗 **Live Dashboard:** https://www.novypro.com/project/energy-consumption
-📁 **Source Code (GitHub):** https://github.com/yourusername/energy-monitoring-dashboard
+🔗 **Live Dashboard: https://www.novypro.com/project/energy-consumption
+📁 **Source Code (GitHub):https://github.com/VikasP2003/energy-monitoring-dashboard
 
 📌 Project Overview
 
