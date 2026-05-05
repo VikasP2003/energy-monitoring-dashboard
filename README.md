@@ -84,4 +84,3 @@ It provides actionable insights to monitor usage patterns, detect inefficiencies
  Conclusion
 
 This project demonstrates how data visualization and analytics can help monitor energy consumption, improve efficiency, and support smarter business decisions.
-
